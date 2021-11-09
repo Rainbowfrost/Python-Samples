@@ -57,7 +57,7 @@ my_pen.up()
 my_pen.goto(-40, 70)
 my_pen.down()
 my_pen.right(90)
-my_pen.circle(40, 180)
+my_pen.circle(40, 120)
 my_pen.up()
 
 
