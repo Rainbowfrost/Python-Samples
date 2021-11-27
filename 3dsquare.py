@@ -3,10 +3,8 @@ import time
 pen = turtle.Turtle() 
 
 def oneside(l):
-    
     pen.forward(l)  
     pen.left(90)
-    
  
 def cube(x, y, l, d, a):
     for i in range(4):
